@@ -1,8 +1,17 @@
 # Hi there, I'm Pham Manh Ha! 👋
 ### Aspiring Backend Developer | Node.js Enthusiast 🚀
 
-I'm a third-year Software Engineering student at **Van Lang University**. I have a background in Python and I'm currently transitioning into **Professional Backend Development** with the Node.js ecosystem.
+Hello! I am **Pham Manh Ha**, a third-year **Software Engineering** student at **Van Lang University**, specializing in **Backend Development**.
 
+Currently, I am focused on transitioning my technical foundation from academic Python projects to building professional, scalable web systems using the **Node.js ecosystem**. I am actively refining my skills in **RESTful API design**, **Database Management**, and **System Architecture** through intensive self-study and practical application.
+
+My **short-term goal** for the next year is to master the Backend technology stack (Node.js, Express, MongoDB/SQL) and gain hands-on experience through internships. I want to understand how to build software that is not only functional but also maintainable and efficient.
+
+In the **long run**, I aim to become a proficient **Full-stack Developer** (or Solution Architect), capable of designing complex systems that solve real-world problems.
+
+I am a **growth-oriented** individual who embraces new technologies and leverages AI tools to accelerate productivity. I am always looking for opportunities to **learn**, **grow**, and bring my **adaptability** and **dedication** to a dynamic engineering team.
+
+---
 - 🔭 I’m currently working on: **E-commerce System Architectures**
 - 🌱 I’m currently learning: **Node.js, ExpressJS, MongoDB & System Design**
 - 👯 I’m looking to collaborate on: Open source backend projects
