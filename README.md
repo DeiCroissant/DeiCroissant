@@ -11,11 +11,6 @@ In the **long run**, I aim to become a proficient **Full-stack Developer** (or S
 
 I am a **growth-oriented** individual who embraces new technologies and leverages AI tools to accelerate productivity. I am always looking for opportunities to **learn**, **grow**, and bring my **adaptability** and **dedication** to a dynamic engineering team.
 
----
-- 🔭 I’m currently working on: **E-commerce System Architectures**
-- 🌱 I’m currently learning: **Node.js, ExpressJS, MongoDB & System Design**
-- 👯 I’m looking to collaborate on: Open source backend projects
-- ⚡ Fun fact: I use AI tools to accelerate my coding workflow!
 
 ### 🛠️ Languages & Tools
 
@@ -76,4 +71,4 @@ I am a **growth-oriented** individual who embraces new technologies and leverage
 
 ### 📫 Connect with Me
 - **Email:** hap57240@gmail.com
-- **LinkedIn:** (Điền link LinkedIn nếu có)
+- **LinkedIn:** https://www.linkedin.com/in/ph%E1%BA%A1m-h%C3%A0-99a803383/
