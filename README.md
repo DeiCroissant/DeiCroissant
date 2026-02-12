@@ -37,13 +37,22 @@ I am a **growth-oriented** individual who embraces new technologies and leverage
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeiCroissant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ha's Github Stats" />
-</p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeiCroissant&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" />
-</p>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=DeiCroissant&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeiCroissant&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=DeiCroissant&theme=tokyonight&hide_border=true&background=0D1117" />
+  </a>
+</div>>
 
 ---
 
