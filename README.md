@@ -52,7 +52,7 @@ I am a **growth-oriented** individual who embraces new technologies and leverage
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=DeiCroissant&theme=tokyonight&hide_border=true&background=0D1117" />
   </a>
-</div>>
+</div>
 
 ---
 
